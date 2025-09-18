@@ -1,0 +1,5 @@
+{
+  "name": "LearnMate: AI Study Companion",
+  "description": "An AI-powered study companion that personalizes learning with an interactive chatbot tutor and an automatic quiz generator from your notes.",
+  "requestFramePermissions": []
+}
